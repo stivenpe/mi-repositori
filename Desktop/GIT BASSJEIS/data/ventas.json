@@ -1,0 +1,25 @@
+[
+    {
+        "fecha": "2024-08-08 15:59:29",
+        "cliente": {
+            "nombre": "Juan P\u00e9rez",
+            "direccion": "Calle Falsa 123"
+        },
+        "empleado": {
+            "nombre": "Ana G\u00f3mez",
+            "cargo": "Vendedora"
+        },
+        "productos": [
+            {
+                "nombre": "Producto A",
+                "cantidad": 2,
+                "precio": 10.5
+            },
+            {
+                "nombre": "Producto B",
+                "cantidad": 1,
+                "precio": 25.0
+            }
+        ]
+    }
+]
